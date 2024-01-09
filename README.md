@@ -1,5 +1,3 @@
-this for delete
-
 Created this Tea Stattion Website usin html css and javascript
 
 Live Link :- https://adityagunale.github.io/Tea_Station/
